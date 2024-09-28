@@ -2,7 +2,7 @@
 
 Text Highlight for MarkEdit that leverages [markedit-api](https://github.com/MarkEdit-app/MarkEdit-api).
 
-Example: `==highlighted text==`.
+Example: `==highlighted text==`, you can simply select the text and hit `=` twice to highlight it.
 
 ## Installation
 
