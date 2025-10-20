@@ -6,6 +6,6 @@ Example: `==highlighted text==`, you can simply select the text and hit `=` twic
 
 ## Installation
 
-Copy [dist/markedit-highlight.js](dist/markedit-highlight.js) to `~/Library/Containers/app.cyan.markedit/Data/Documents/scripts/`.
+Copy [dist/markedit-highlight.js](dist/markedit-highlight.js?raw=true) to `~/Library/Containers/app.cyan.markedit/Data/Documents/scripts/`.
 
 You can also run `yarn install && yarn build` to build and deploy the script.
