@@ -6,6 +6,6 @@ Example: `==highlighted text==`, you can simply select the text and hit `=` twic
 
 ## Installation
 
-Copy [dist/markedit-highlight.js](dist/markedit-highlight.js?raw=true) to `~/Library/Containers/app.cyan.markedit/Data/Documents/scripts/`.
+Install this extension from the [MarkEdit Extension Registry](https://markedit-app.github.io/extensions/#markedit-highlight).
 
 You can also run `yarn install && yarn build` to build and deploy the script.
