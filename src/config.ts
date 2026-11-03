@@ -2,7 +2,7 @@ import { MarkdownConfig } from '@lezer/markdown';
 
 const highlightDelimiter = {
   resolve: 'TextHighlight',
-  mark: 'TextHighlight',
+  mark: 'TextHighlightMark',
 };
 
 export const highlightConfig: MarkdownConfig = {
